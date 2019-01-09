@@ -207,7 +207,7 @@ isnap = 600
 
 irun = 'm12i'
 
- part_list = ['PartType0','PartType1','PartType2','PartType4']
+part_list = ['PartType0','PartType1','PartType2','PartType4']
 p_type = part_list[itype]
 
 type_list = ['Gas','DM','Disk','Bulge','Stars','BH']
